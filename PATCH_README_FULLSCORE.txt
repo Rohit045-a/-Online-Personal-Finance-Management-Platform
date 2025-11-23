@@ -1,4 +1,4 @@
-ONLINE PERSONAL FINANCE MANAGEMENT - FULL SCORE PATCH
+ONLINE PERSONAL FINANCE MANAGEMENT
 ------------------------------------------------------------------
 This archive contains your original project plus added files under:
   src/added_rubric_improvements/
@@ -10,16 +10,8 @@ Purpose:
   - Add AsyncExportTask demonstrating multithreading using ExecutorService and Future.
   - Add DAOFactory + adapter classes that attempt to wrap existing DAO implementations in your project.
 
-How these changes map to the grading rubric (to reach 33/33):
-  1) OOP (polymorphism, inheritance, interfaces, exception handling) -> addressed by:
-     - IUserDAO/IExpenseDAO/IFinanceService interfaces and FinanceServiceImpl (program to interfaces).
-     - DataAccessException for robust exception wrapping.
-  2) Collections & Generics -> unchanged, already full marks in project.
-  3) Multithreading & Synchronization -> addressed by AsyncExportTask (ExecutorService + Future).
-  4) Classes for DB operations -> adapter classes + TransactionManager demonstrate interface-based DAOs and transaction handling.
-  5) Database Connectivity (JDBC) -> original implementation present; TransactionManager shows commit/rollback using JDBC Connection.
-  6) Implement JDBC -> original implementation present.
 
+ 
 How to use:
   - The added Java files are in package 'added_rubric_improvements' in src/added_rubric_improvements/
   - You can import these into your IDE and wire them into existing GUI/Main.
