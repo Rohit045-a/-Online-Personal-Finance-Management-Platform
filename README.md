@@ -111,7 +111,7 @@ The application uses a **Java GUI (Swing/JavaFX)** on the front-end and **JDBC +
 
 ---
 
-## 🧩 OOP Design (For Rubric – 10 Marks)
+## 🧩 OOP Design 
 
 The project uses core OOP concepts extensively:
 
@@ -136,7 +136,7 @@ The project uses core OOP concepts extensively:
 
 ---
 
-## 📚 Collections & Generics (For Rubric – 6 Marks)
+## 📚 Collections & Generics 
 
 The project uses Java Collections and Generics in multiple layers:
 
@@ -154,7 +154,7 @@ The project uses Java Collections and Generics in multiple layers:
 
 ---
 
-## ⏱ Multithreading & Synchronization (For Rubric – 4 Marks)
+## ⏱ Multithreading & Synchronization 
 
 Multithreading is used for:
 
@@ -173,7 +173,7 @@ Example usage:
 
 ---
 
-## 🗃 Database Operations Classes (For Rubric – 7 Marks)
+## 🗃 Database Operations Classes 
 
 Database logic is encapsulated in dedicated classes:
 
@@ -190,7 +190,7 @@ Each DAO:
 
 ---
 
-## 🔌 JDBC Database Connectivity (For Rubric – 3 + 3 Marks)
+## 🔌 JDBC Database Connectivity 
 
 **JDBC is used for:**
 
