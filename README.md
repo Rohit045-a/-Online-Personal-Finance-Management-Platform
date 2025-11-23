@@ -2,8 +2,7 @@
 
 A Java GUI-based application that helps users **track expenses**, **set budgets**, and **receive personalized financial advice**, while enabling **admins** and **financial advisors** to manage the system efficiently.
 
-This project is designed to align with the **Java GUI-Based Projects Marking Rubric – Review 1** and showcases:  
-- OOP (Inheritance, Polymorphism, Interfaces, Exception Handling)  
+This project is designed to align with the **Java GUI-Based Projects.
 - Collections & Generics  
 - Multithreading & Synchronization  
 - Database Operation Classes  
