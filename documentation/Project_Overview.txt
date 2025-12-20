@@ -1,0 +1,16 @@
+Finance Management System – Java GUI Based Project
+
+Objective:
+Develop a robust desktop-based finance management system using Java Swing and JDBC.
+
+Technologies:
+Java, Swing, JDBC, MySQL
+
+Architecture:
+Layered MVC Architecture (GUI → Service → DAO → Database)
+
+Key Features:
+- User authentication
+- Role-based dashboards
+- Expense & budget management
+- Secure database transactions

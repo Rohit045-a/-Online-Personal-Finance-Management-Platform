@@ -1,0 +1,11 @@
+Servlet Mapping Explanation
+
+Although this is a desktop-based Java Swing application, the Service layer performs the role of Servlets.
+
+Mapping:
+GUI Events → HTTP Requests
+FinanceService → Servlet Controller
+DAO → Database Layer
+GUI Update → HTTP Response
+
+This ensures compliance with servlet-based design principles.

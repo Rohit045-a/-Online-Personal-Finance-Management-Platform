@@ -1,0 +1,6 @@
+Steps to Run Project:
+
+1. Open project in VS Code / IntelliJ
+2. Configure MySQL database
+3. Update DB credentials
+4. Run Main.java
